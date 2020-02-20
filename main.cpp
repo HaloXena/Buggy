@@ -13,6 +13,9 @@ void speedPID();
 void directionPID();
 void breakSensing();
 void PID();
+void setMotorSpeedRight();
+void setMotorSpeedLeft();
+
 
 
 int main() {
