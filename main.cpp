@@ -12,6 +12,7 @@ void getSensor();
 void speedPID();
 void directionPID();
 void breakSensing();
+void PID();
 
 
 int main() {
